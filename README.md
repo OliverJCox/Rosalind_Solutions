@@ -13,7 +13,7 @@ As a first year Computer Science student, I am using these challenges to improve
 ```
 |-- README.md               # Repository documentation
 |-- Stronghold/             # Rosalind bioinformatics stronghold track solutions
-    |-- DNA_counting.py     # Substring occurrence & text parsing
-    |-- RNA_transcribe.py   # String replacement operations
-    |-- FIB_rabbits.py      # Dynamic programming & memoization
+    |-- 
+    |-- 
+    |-- 
 ```
