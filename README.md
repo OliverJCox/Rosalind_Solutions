@@ -10,10 +10,10 @@ As a first year Computer Science student, I am using these challenges to improve
 
 # Repository Structure
 
-```text
-├── README.md               # Repository documentation
-└── stronghold/             # Bioinformatics Stronghold track solutions
-    ├── DNA_counting.py     # Substring occurrence & text parsing
-    ├── RNA_transcribe.py   # String replacement operations
-    └── FIB_rabbits.py      # Dynamic programming & memoization
+```
+|-- README.md               # Repository documentation
+|-- Stronghold/             # Rosalind bioinformatics stronghold track solutions
+    |-- DNA_counting.py     # Substring occurrence & text parsing
+    |-- RNA_transcribe.py   # String replacement operations
+    |-- FIB_rabbits.py      # Dynamic programming & memoization
 ```
