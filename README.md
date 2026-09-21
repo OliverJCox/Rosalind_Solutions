@@ -17,3 +17,5 @@ As a first year Computer Science student, I am using these challenges to improve
     |-- 
     |-- 
 ```
+
+Rather than approaching the problems as biology challenges, I am using them to practice practical application of data structures and algorithms. 
