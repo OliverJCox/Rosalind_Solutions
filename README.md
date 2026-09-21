@@ -5,14 +5,17 @@ This repository contains my solutions to the bioinformatics computational challe
 As a first year Computer Science student, I am using these challenges to improve my understanding of dynamic programming, string manipulation, graph theory and raw data parsing.
 
 **Language - Python 3.14**
+
 **Environment - VSCode**
 
 # Repository Structure
 
-``text
-|-- README.md               # Repository documentation (this file)
+|-- README.md # Repository documentation (this file)
+
 |-- Stronghold/             # Rosalind bioinformatics stronghold track solutions
+
     |-- 
+    
     |-- 
+    
     |-- 
-```
