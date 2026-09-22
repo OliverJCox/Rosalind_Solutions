@@ -20,5 +20,5 @@ if __name__ == "__main__":
         ''' Using a context manager to open file, this ensures the file is closed 
         even if an error occurs and prevents memory leaks.'''
 
-        dataset = file.read().strip()  # .strip() removes any leading/trailing whitespace.
+        dataset = file.read().strip().upper()  # .strip() removes any leading/trailing whitespace.
         print(count_nucleotides(dataset))
