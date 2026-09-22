@@ -13,7 +13,7 @@ As a first year Computer Science student, I am using these challenges to improve
 ```
 |-- README.md               # Repository documentation
 |-- Stronghold/             # Rosalind bioinformatics stronghold track solutions
-    |-- 
+    |-- Counting_DNA_Nucleotides.py        # Algorithm for counting the number of times nucleotides occur in a string
     |-- 
     |-- 
 ```
