@@ -19,7 +19,8 @@ As a first year Computer Science student, I am using these challenges to improve
     |-- Rabbits_and_Recurrence_Relations.py        # Algorithm for calculating the growing population of rabbits using a Fibonacci sequence
     |-- Computing_GC_Content.py        # Algorithm for calculating the highest GC content DNA strand given a FASTA format flatfile of DNA strands
     |-- Counting_Point_Mutations.py        # Calculates the number of Nucleotide mutations give the before and after string of DNA
-    |-- Mendels_First_Law.py        # Algorithm that calculates the probability of a dominant allele offspring given the number of homozygous recessive/dominant and heterozygous organisms that can mate      
+    |-- Mendels_First_Law.py        # Algorithm that calculates the probability of a dominant allele offspring given the number of homozygous recessive/dominant and heterozygous organisms that can mate     
+    |-- Translating_RNA_into_Protein.py # An algorithm for translating an RNA string to a protein string
 ```
 
 Rather than approaching the problems as biology challenges, I am using them to practice practical application of data structures and algorithms. 
