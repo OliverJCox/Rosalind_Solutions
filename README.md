@@ -21,6 +21,7 @@ As a first year Computer Science student, I am using these challenges to improve
     |-- Counting_Point_Mutations.py        # Calculates the number of Nucleotide mutations give the before and after string of DNA
     |-- Mendels_First_Law.py        # Algorithm that calculates the probability of a dominant allele offspring given the number of homozygous recessive/dominant and heterozygous organisms that can mate     
     |-- Translating_RNA_into_Protein.py # An algorithm for translating an RNA string to a protein string
+    |-- Finding_a_Motif_in_DNA.py   # An algorithm for finding the indicies at which a substring occurs in a string
 ```
 
 Rather than approaching the problems as biology challenges, I am using them to practice practical application of data structures and algorithms. 
