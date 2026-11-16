@@ -17,6 +17,7 @@ def Find_Consensus_And_Profile(dna_matrix: list) -> tuple[str, dict]:
         # Zip matches each of the elements in the list to the corresponding item in the next list
         # eg. (1,2,3), (A,C,G) goes to (1,A), (2,C), (3, G)
         # Zip is done lazily so information is discarded after being used, optimises memory use
+        # Builds one column at a time
         for base in "ACGT":
             profile[base].append(column.count(base))
             # Gets the number of occurrances of each nucleotide and places it in profile
