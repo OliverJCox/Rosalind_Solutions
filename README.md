@@ -23,6 +23,7 @@ As a first year Computer Science student, I am using these challenges to improve
     |-- Translating_RNA_into_Protein.py # An algorithm for translating an RNA string to a protein string
     |-- Finding_a_Motif_in_DNA.py   # An algorithm for finding the indicies at which a substring occurs in a string
     |-- Consensus_and_Profile.py    # An algorithm to calculte the consensus string and profile given a set of DNA strings in FASTA format
+    |-- Mortal_Fibonacci_Rabbits.py # Calculates the population of rabbits assuming they die after a given time and each pair older than 1 month produces 1 pair per month
 ```
 
 Rather than approaching the problems as biology challenges, I am using them to practice practical application of data structures and algorithms. 
